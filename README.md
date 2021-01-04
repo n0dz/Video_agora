@@ -51,13 +51,13 @@ The SDK must be integrated into the sample project before it can opened and buil
   ...
   dependencies {
       ...
-      implementation 'io.agora.rtc:full-sdk:3.0.0'
+      implementation 'io.agora.rtc:full-sdk:3.2.1'
   }
   ```
 
 #### Method 2 - Manually copy the SDK files
 
-1. Download the Agora Video SDK from [Agora.io SDK](https://www.agora.io/en/download/).
+1. Download the Agora Video SDK from(https://www.agora.io/en/download/).
 2. Unzip the downloaded SDK package.
 3. Copy the following files from the **libs** folder of the downloaded SDK package:
 
